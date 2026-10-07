@@ -75,6 +75,3 @@ OpenCode también permite definir instrucciones globales para el modelo mediante
 
 Es decir, mediante plugins podemos añadir nuevas herramientas, integrarnos con servicios externos, reaccionar a determinados eventos o modificar parte del comportamiento de OpenCode.
 
-Normalmente, los plugins locales del proyecto se encuentran dentro de la carpeta:
-
-```text
