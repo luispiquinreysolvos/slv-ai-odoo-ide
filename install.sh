@@ -1,4 +1,4 @@
-```bash
+
 #!/usr/bin/env bash
 set -euo pipefail
 
@@ -690,4 +690,4 @@ if [[ "$selected" == complete ]]; then
     echo "Filesystem authorized directory: $filesystem_root"
     echo 'Playwright: if Chrome is missing, ask Solvos to use playwright browser_install.'
 fi
-```
+
